@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "ChainNest",
+    "slug": "chainnest",
+    "version": "0.1.0",
+    "platforms": ["android"]
+  }
+}
